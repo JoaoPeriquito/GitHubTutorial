@@ -2,6 +2,7 @@
 import random
 
 print("Starting...")
+print('testing steven')
 number_of_simulated_points = 10**3
 
 inside = 0
