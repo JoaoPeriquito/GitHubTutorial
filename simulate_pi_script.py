@@ -1,6 +1,7 @@
 #Estimating the value of Pi using random numbers generator
 import random
 
+print("Starting...")
 number_of_simulated_points = 10**3
 
 inside = 0
