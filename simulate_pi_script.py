@@ -28,3 +28,4 @@ for i in range(number_of_simulated_points):
 pi = 4*inside/number_of_simulated_points
 
 print(pi)
+print("DONE")
